@@ -3,12 +3,11 @@
 
 # 🏠 Bandung House Price Prediction with Machine Learning
 
-A Data Science Project for RancangBangun123 (RB123)
 
 ### **📌 Overview**
 
 This project builds a machine learning model to predict residential house prices in Bandung, Indonesia, using scraped property listing data.
-The model helps RancangBangun123 (RB123), a construction & architecture company, provide transparent price insights to clients and compare construction cost vs. market value.
+The model helps [RancangBangun123](https://rancangbangun123.com/) (RB123), a construction & architecture company, provide transparent price insights to clients and compare construction cost vs. market value.
 The goal is to produce an accurate, explainable, and deployable model along with a simple interactive web interface.
 
 ### **🎯 Business Goal**
@@ -61,7 +60,7 @@ Features used:
 * building_area – Building size (m²)
 
 Target variable:
-* price – House price in Indonesian Rupiah
+* price – House price in Indonesian Rupiah (IDR)
 
 ### **Model Building**
 
