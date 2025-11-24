@@ -1,5 +1,5 @@
+![image](https://github.com/harishmuh/House-price-prediction-in-Bandung/blob/main/images/bandung%20scenary%20banner.PNG?raw=true)
 
-![image](https://github.com/harishmuh/House-price-prediction-in-Bandung/blob/main/images/house%20prediction%20sample.PNG?raw=true)
 
 # 🏠 Bandung House Price Prediction with Machine Learning
 
@@ -8,7 +8,7 @@
 
 This project builds a machine learning model to predict residential house prices in Bandung, Indonesia, using scraped property listing data.
 The model helps [RancangBangun123](https://rancangbangun123.com/) (RB123), a construction & architecture company, provide transparent price insights to clients and compare construction cost vs. market value.
-The goal is to produce an accurate, explainable, and deployable model along with a simple interactive web interface.
+
 
 ### **🎯 Business Goal**
 
@@ -26,8 +26,9 @@ This project enables RB123 to:
 * Demonstrate that RB123 construction costs are competitive
 * Improve consultation workflows using a simple ML-powered web tool
 
+The goal is to produce an accurate and explainable model along with a simple interactive web interface.
 
-### **❓ Problem Statement**
+### **❓ Problem Statements**
 
 How can we build an accurate machine learning model that predicts residential house prices in Bandung using only location and physical property features?
 
@@ -35,7 +36,7 @@ Supporting questions:
 
 * Which machine learning model performs best on unseen data?
 
-* What features most strongly influence houaw price in Bandung?
+* What features most strongly influence house prices in Bandung?
 
 ### **🎯 Project Objectives**
 
@@ -111,7 +112,9 @@ The tuned LGBM model performed differently across different ranges of price. The
 
 ### **🚀Apps**
 
-* The deployed apps can be seen here: [Bandung House predictor](https://app-house-prices-8fe4kxbfh4mghwrjexudzs.streamlit.app/) 
+* The deployed apps can be seen here: [Bandung House predictor](https://app-house-prices-8fe4kxbfh4mghwrjexudzs.streamlit.app/)
+
+![image](https://github.com/harishmuh/House-price-prediction-in-Bandung/blob/main/images/house%20prediction%20sample.PNG?raw=true)
 
 ### **Acknowledgement**
 I would like to thank [RancangBangun123](https://rancangbangun123.com/) and [Reza Amansyah](https://github.com/RezaAmansyah) who were supporting this work.
