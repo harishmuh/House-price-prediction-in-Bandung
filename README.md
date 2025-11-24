@@ -113,6 +113,8 @@ The tuned LGBM model performed differently across different ranges of price. The
 
 * The deployed apps can be seen here: [Bandung House predictor](https://app-house-prices-8fe4kxbfh4mghwrjexudzs.streamlit.app/) 
 
+### **Acknowledgement**
+I would like to thank [RancangBangun123](https://rancangbangun123.com/) and [Reza Amansyah](https://github.com/RezaAmansyah) who were supporting this work.
 
 
 
