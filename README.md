@@ -117,7 +117,7 @@ The tuned LGBM model performed differently across different ranges of price. The
 ![image](https://github.com/harishmuh/House-price-prediction-in-Bandung/blob/main/images/house%20prediction%20sample.PNG?raw=true)
 
 ### **Acknowledgement**
-I would like to thank [RancangBangun123](https://rancangbangun123.com/) and [Reza Amansyah](https://github.com/RezaAmansyah) who were supporting this work.
+I would like to thank [RancangBangun123](https://rancangbangun123.com/), [Reza Amansyah](https://github.com/RezaAmansyah), and [Hans Bonnie](https://hansbonnie.github.io/HBAnalytics/) who were supporting this work.
 
 
 
