@@ -14,9 +14,9 @@ The model helps [RancangBangun123](https://rancangbangun123.com/) (RB123), a con
 
 Many RB123 clients ask:
 
-“Berapa harga pasar rumah dengan spesifikasi ini di Bandung?”
+“What is the market price for a house with these specifications in Bandung?”
 
-“Apakah biaya pembangunan RB123 masih ekonomis dibanding harga pasaran?”
+“Is the construction cost of RB123 still economical compared to market prices?”
 
 RB123 wants to educate customers and provide transparent market-based estimations.
 
